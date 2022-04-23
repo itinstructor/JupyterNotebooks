@@ -1,1 +1,2 @@
-# JupyterNotebooks
+# Jupyter Notebooks for various classes
+
