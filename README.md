@@ -7,6 +7,7 @@ This repository holds notebooks and tutorials for my classes.
 
 ### Changes
 #### Notebooks
+- 04/27/2022: C++ Primer
 - 04/22/2022: Data Science Primer
 #### Tutorials
 - 04/24/2022: Colab Access to Google Drive
