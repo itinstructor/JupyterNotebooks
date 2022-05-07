@@ -1,7 +1,7 @@
 # Jupyter Notebooks and Tutorials for WNCC Classes
 
 ### Purpose
-This repository holds notebooks and tutorials for Western Nebraska Community College [Computer Science](https://www.wncc.edu/academics/programs-of-study/computer-sciences) classes. We use [Google Colab](https://colab.research.google.com/) for our data science work.
+This repository holds notebooks and tutorials for Western Nebraska Community College [Computer Science](https://www.wncc.edu/academics/programs-of-study/computer-sciences) classes. We are using [Google Colab](https://colab.research.google.com/) for our data science work.
 
 ### Changes
 #### Notebooks
