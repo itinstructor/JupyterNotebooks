@@ -20,7 +20,7 @@
         "ID": 3,
         "Address": "332 Hill St",
         "City": "San Francisco",
-        "State": "California 94114",
+        "State": "CA 94114",
         "Country": "USA",
         "Name": "Super River",
         "Employees": 25
@@ -38,7 +38,7 @@
         "ID": 5,
         "Address": "1056 Sanchez St",
         "City": "San Francisco",
-        "State": "California",
+        "State": "CA 94114",
         "Country": "USA",
         "Name": "Sanchez",
         "Employees": 12
