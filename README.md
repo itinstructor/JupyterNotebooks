@@ -5,7 +5,7 @@ This repository holds Jupyter notebooks and tutorials for Western Nebraska Commu
 
 ### Notebooks
 - C++ Primer
-    - Everything you wanted to know about C++
+    - Everything you wanted to know about C++ ;'))
     - How to compile C++ code with g++ in Colab
 - Java Primer
     - Almost everything you wanted to know about Java
