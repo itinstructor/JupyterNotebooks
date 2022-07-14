@@ -10,7 +10,9 @@ This repository holds Jupyter notebooks and tutorials for Western Nebraska Commu
 - Java Primer
     - Almost everything you wanted to know about Java
     - How to compile Java code with JDK in Colab
-- Data Science Primer
+- Python Primer
+    - Get started with Python
+- Python Data Science Primer
     - All Python all the time
 
 ### Tutorials
