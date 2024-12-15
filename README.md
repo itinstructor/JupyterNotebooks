@@ -9,6 +9,7 @@ This repository holds Jupyter notebooks and tutorials for Western Nebraska Commu
 This Binder link provides access to all Juypter notebooks. Github doesn't always preview them properly.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/itinstructor/JupyterNotebooks/main)
+
 - Python Primer
     - Get started with Python
 - Python Data Science Primer
